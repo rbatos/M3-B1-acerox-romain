@@ -62,14 +62,15 @@ Propriété : tout est en local, les données sont souveraines et doivent le res
 
 > Notes-le honnêtement — c'est précieux pour la note d'identification.
 
-- le modèle actuel ainsi que son fonctionnement.
-- ...
+- Quel est le fonctionnement du modèle actuel ? 
+- Comment prédire un défaut qualité ? Sur quels critères se baser ?
 
 ## Mes impressions à chaud (10 min après)
 
 > 1 paragraphe, à toi.
 
-C'est pas facile de prendre des notes, et d'en tirer des interprétations.
+L'entretien confirme un besoin métier clair et mesurable: réduire de 20% les non-conformités sur Roubaix en 3 mois, avec une anticipation à 24h. Les sources de données sont identifiées (logs machines, capteurs, ERP), mais les modalités de croisement, la qualité des labels défaut et la volumétrie historique restent à préciser avec l'équipe data. Le cadre de conformité est structurant (IDs opérateurs, souveraineté, hébergement local), ce qui oriente vers une solution on-premise avec traitement d'anonymisation à valider avec le DPO. La prochaine étape est de cadrer précisément le coût des faux positifs/faux négatifs pour aligner le modèle sur la réalité opérationnelle.
+
 
 ---
 
