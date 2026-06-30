@@ -35,7 +35,7 @@ Ce que je comprends qu'il cherche vraiment : il faut intégrer 3 nouvelles sourc
 > 3-5 puces. Quelles sources ingérer en priorité ? Lesquelles écarter et pourquoi ?
 
 - `capteurs_iot.csv` => à prendre en priorité car fournit des données en continue sur l'état des capteurs
-- `logs_machines.log` => intéressant car fournit des données en continue sur l'état des capteurs
+- `logs_machines.log` => intéressant car fournit des données en continue sur l'état des machines
 - `erp_export.json` => source d'enrichissement
 
 ## 5. Points à clarifier avec Sébastien
